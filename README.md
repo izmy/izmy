@@ -15,6 +15,12 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
  - Writing articles about new music, albums reviews, and reports from concerts. Mainly focused on Czech and Slovak rap music.
  - List of articles: http://musicserver.cz/autori/jaroslav-hrach/
 
+:office: **IMEG**
+ - :calendar: 10/2023 - Present
+ - :construction_worker: Music Website Administrator
+ - Responsible for the technical administration and maintenance of 10 music websites, including code updates and DNS configuration.
+ - musicserver.cz, filmserver.cz, Smile Music, Spark Rock Magazine, Full Moon, Moody Moon Noize, ...
+
 :office: **Mindpax.me**
  - :calendar: 04/2020 - 06/2020
  - :construction_worker: Frontend Developer
