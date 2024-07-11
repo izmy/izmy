@@ -38,7 +38,6 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
  - :calendar: 05/2012 - 03/2015
  - :construction_worker: Frontend coder
  - Working in a digital agency on several projects for big companies and also on many microsites.
- - **Projects:** AC Sparta Praha, Jan Mühlfeit, Zikmundov
  - **Technologies:** HTML, CSS, Less, jQuery, Bootstrap, Wordpress
 
 #### Education
