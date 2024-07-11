@@ -43,16 +43,16 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
 
 #### Education
 
-:school: Czech Technical University in Prague, Faculty of Information Technology
+:school: **Czech Technical University in Prague, Faculty of Information Technology**
 - :calendar: 2016-2018
 - :book: MS in Computer science (Web engineering)
 - **Thesis:** OptiLynx frontend – Information system for optical shops (wireframes, user interface, user experience, user testing, architecture, Material Design, Angular)
 
-:school: Czech Technical University in Prague, Faculty of Information Technology
+:school: **Czech Technical University in Prague, Faculty of Information Technology**
 - :calendar: 2012-2016
 - :book: BS in Computer science (Web and multimedia)
 
-:school: Private Secondary School of Information Technology (SSŠVT)
+:school: **Private Secondary School of Information Technology (SSŠVT)**
 - :calendar: 2008 - 2012
 - :book: Information Technology
 
