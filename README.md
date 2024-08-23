@@ -4,7 +4,7 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
 #### Work experience
 
 :office: **Ematiq**
- - :calendar: 07/2020 - Present
+ - :calendar: 07/2020 - 08/2024
  - :construction_worker: Frontend Developer / Frontend Tech Lead
  - Working on a betting exchange trading platform and various trading tools.
  - **Technologies:** JavaScript, TypeScript, React, Redux, RxJS, GraphQL, Svelte, Immutable.js
