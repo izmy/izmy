@@ -3,11 +3,11 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
 
 #### Work experience
 
-:office: **Ematiq**
- - :calendar: 07/2020 - 08/2024
- - :construction_worker: Frontend Developer / Frontend Tech Lead
- - Working on a betting exchange trading platform and various trading tools.
- - **Technologies:** JavaScript, TypeScript, React, Redux, RxJS, GraphQL, Svelte, Immutable.js
+:office: **Trezor**
+ - :calendar: 12/2024 - Present
+ - :construction_worker: Frontend Developer
+ - Working on an application for managing cryptocurrencies, integrated with a hardware wallet.
+ - **Technologies:** JavaScript, TypeScript, React, Redux, styled-components
 
 :pencil2: **musicserver.cz**
  - :calendar: 10/2011 - Present
@@ -20,6 +20,12 @@ I am a frontend developer and a music journalist based in Prague, Czech Republic
  - :construction_worker: Music Website Administrator
  - Responsible for the technical administration and maintenance of 10 music websites, including code updates and DNS configuration.
  - **Websites:** musicserver.cz, filmserver.cz, Smile Music, Spark Rock Magazine, Full Moon, Moody Moon Noize, ...
+
+:office: **Ematiq**
+ - :calendar: 07/2020 - 08/2024
+ - :construction_worker: Frontend Developer / Frontend Tech Lead
+ - Working on a betting exchange trading platform and various trading tools.
+ - **Technologies:** JavaScript, TypeScript, React, Redux, RxJS, GraphQL, Svelte, Immutable.js
 
 :office: **Mindpax.me**
  - :calendar: 04/2020 - 06/2020
